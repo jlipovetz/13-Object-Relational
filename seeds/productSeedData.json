@@ -1,0 +1,62 @@
+[
+  {
+    "product_name": "Tank Top",
+    "price": 19.99,
+    "category_id": 1
+  },
+  {
+    "product_name": "Long Sleeve",
+    "price": 29.99,
+    "category_id": 1
+  },
+  {
+    "product_name": "Basketball Shorts",
+    "price": 15.99,
+    "category_id": 2
+  },
+  {
+    "product_name": "Dress Shorts",
+    "price": 34.99,
+    "category_id": 2
+  },
+  {
+    "product_name": "Flat Brim",
+    "price": 24.99,
+    "category_id": 3
+  },
+  {
+    "product_name": "Snap Back",
+    "price": 19.99,
+    "category_id": 3
+  },
+  {
+    "product_name": "Basketball Shoes",
+    "price": 59.99,
+    "category_id": 4
+  },
+  {
+    "product_name": "Dress Shoes",
+    "price": 89.99,
+    "category_id": 4
+  },
+  {
+    "product_name": "Hot Dog",
+    "price": 4.99,
+    "category_id": 5
+  },
+  {
+    "product_name": "Cheese Burger",
+    "price": 9.99,
+    "category_id": 5
+  },
+  {
+    "product_name": "Coca-Cola",
+    "price": 2.99,
+    "category_id": 6
+  },
+  {
+    "product_name": "Sprite",
+    "price": 2.99,
+    "category_id": 6
+  }
+]
